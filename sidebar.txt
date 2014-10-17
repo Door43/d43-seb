@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[seb:home|Door43 (seb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-seb|d43-seb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-seb/archive/master.zip|d43-seb.zip]]
+
+**Recent Changes**
+{{changes>ns = seb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/seb|Ethnologue data]]
+
